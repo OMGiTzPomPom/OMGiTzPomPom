@@ -66,5 +66,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OMGiTzPomPom&show_icons=true&count_private=true)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=OMGiTzPomPom&langs_count=9&layout=compact&hide=css)
-
-![Profile views](https://gpvc.arturio.dev/OMGiTzPomPom)  
