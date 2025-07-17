@@ -1,4 +1,4 @@
-# 🍎 Hey there ! I'm PomPom, a shy 24 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 🍎 Hey there ! I'm PomPom, a shy 25 years old computer science student. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🔭 Full stack web developer 
 - ⚥ Gender: Demi-Girl (Non-binary female)
 - 😄 Pronouns: 🇬🇧 She/Her/They-em (🇫🇷 Elle/Ælle)
